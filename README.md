@@ -1,7 +1,7 @@
 # 🍩 Hi I am Ralph Daren
 Graduated from Red River College Polytechnic as a Full-Stack Web Developer. Passionate about building modern, user-friendly web applications and continuously improving my skills.
 
-## 🌐 Socials:
+# 🌐 Socials:
 Visit my life in [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ralphdareenn/)<br />
 Connect with me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ralph-aquino-791755364/)<br />
 Contact me through [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aquino.ralphdaren@gmail.com)
